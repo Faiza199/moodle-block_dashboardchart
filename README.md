@@ -1,21 +1,21 @@
-# Custom Block Leader Board
+# Dashboard Chart
 
-Custom Block Leaderboard plugin is a block plugin in moodle. It shows leaderboard / ranking board based on different types.
+Dashboard Chart plugin is a block plugin in moodle. This Plugin helps to generate different types of charts. The custom styling is yet to be done. 
 
-# Leaderboard Types
+# Chart Types
 
-  1. Course Leaderboard
-  2. Enrollment Leaderboard
-  3. Forum Discussion Leaderboard
-  4. Quiz Leaderboard
+  1. Horizontal Bar
+  2. Vertical Bar
+  3. Pi chart
+  4. Line chart
 
 # Feature List
 
   - Configurable Block Heading
-  - Multiple Leaderboard Types
-  - Configurable Data Limit in query
+  - Multiple chart Types
+  - Configurable Data Limit
+  - Customizable chart value
   - Configurable style properties
-  - User filter based on custom field
 
 # Configuration
 
